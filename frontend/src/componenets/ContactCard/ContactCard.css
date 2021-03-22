@@ -1,0 +1,21 @@
+.card{
+    margin: 20px;
+    width: 250px;
+    height: 350px;
+    opacity: 0.9;
+    
+}
+.avatar{
+    height: 150px;
+    width: 150px;
+}
+.ButtonCard {
+
+  display: flex;
+  justify-content: center;
+}
+.ButtonCard Button{
+
+    width: 100px;
+    margin: 10px;
+}
